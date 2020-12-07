@@ -16,3 +16,4 @@ for request in driver.requests:
             request.response.headers
         )
 driver.close()
+
